@@ -1,0 +1,224 @@
+{
+  "main": {
+    "id": "2542393e7748de95",
+    "type": "split",
+    "children": [
+      {
+        "id": "a80f2c5ebcc06926",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6bd14380a74448ad",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nueva pestaña"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "107f1f9d1398a602",
+    "type": "split",
+    "children": [
+      {
+        "id": "c4401de27d08e2f7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "24003e1b60c13d07",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "2f345cdfb7e723e1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "acccd0166bcf881b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f9f0892900799b23",
+    "type": "split",
+    "children": [
+      {
+        "id": "ba10515574ee7cfc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ef90162a739ea3ea",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Administracion-de-Bases-de-Datos/P6.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de P6"
+            }
+          },
+          {
+            "id": "c6476410ffa9a53e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Administracion-de-Bases-de-Datos/P6.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de P6"
+            }
+          },
+          {
+            "id": "b5d1f6bd274573ee",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "82b13b33466a4e65",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "P11.md"
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de P11"
+            }
+          },
+          {
+            "id": "2c67e82e697d01c3",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Complemento no activo"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "24003e1b60c13d07",
+  "lastOpenFiles": [
+    "Mathematik",
+    "Estadística 2/Estadística 2..md",
+    "Conclusiones sobre la lectura..md",
+    "Templates/TML_notes.md",
+    "Ingeniería de software/Ingeniería de Software.md",
+    "Cálculo 3/ALALALA.md",
+    "Visual Studio Code/3 Definiciones y snippets/5. Crear snippets personalizados.md",
+    "Sin título.md",
+    "Templates/Nombre - Fecha.md",
+    "React/R1 React.md",
+    "P11.md",
+    "Administracion-de-Bases-de-Datos/P10.md",
+    "Templates",
+    "Administracion-de-Bases-de-Datos/Adjuntos/Pasted image 20241123195228.png",
+    "Administracion-de-Bases-de-Datos/Adjuntos/Pasted image 20241123194439.png",
+    "Administracion-de-Bases-de-Datos/Adjuntos/Pasted image 20241123194420.png",
+    "Administracion-de-Bases-de-Datos/Adjuntos/Pasted image 20241123194340.png",
+    "Administracion-de-Bases-de-Datos/Adjuntos/Pasted image 20241123192634.png",
+    "Administracion-de-Bases-de-Datos/Adjuntos/Pasted image 20241123192650.png",
+    "Administracion-de-Bases-de-Datos/Adjuntos/Pasted image 20241123192744.png",
+    "Administracion-de-Bases-de-Datos/Adjuntos/Pasted image 20241002195757.png",
+    "Administracion-de-Bases-de-Datos/Adjuntos/Pasted image 20241122080006.png",
+    "Administracion-de-Bases-de-Datos/Adjuntos/Pasted image 20241122075717.png",
+    "Administracion-de-Bases-de-Datos/P9.md",
+    "Administracion-de-Bases-de-Datos/A5.md",
+    "Administracion-de-Bases-de-Datos/A4.md",
+    "Administracion-de-Bases-de-Datos/P8.md",
+    "Administracion-de-Bases-de-Datos/P7.md",
+    "Administracion-de-Bases-de-Datos/A2.md",
+    "Administracion-de-Bases-de-Datos/P6.md",
+    "Administracion-de-Bases-de-Datos/P5.md",
+    "Adjuntos",
+    "Administracion-de-Bases-de-Datos/P4.md",
+    "Administracion-de-Bases-de-Datos/P3/P3.md",
+    "Administracion-de-Bases-de-Datos/Adjuntos",
+    "Administracion-de-Bases-de-Datos/P1.md",
+    "Administracion-de-Bases-de-Datos/A3.md",
+    "Administracion-de-Bases-de-Datos/P3",
+    "Administracion-de-Bases-de-Datos/P1",
+    "Administracion-de-Bases-de-Datos",
+    "Examen de Cálculo.md",
+    "Estadística 2/Práctica 2.md",
+    "Estadística 2/Unidad 4. Inferencia bayesiana/Anexos",
+    "Sin título 1",
+    "Desarrollo Web/Anexos",
+    "Base de datos - Proyecto/Anexos",
+    "Sistema.canvas",
+    "Estadística 2/Unidad 2. Análisis de varianza y diseño de experimentos/Anexos/Sistema.canvas"
+  ]
+}

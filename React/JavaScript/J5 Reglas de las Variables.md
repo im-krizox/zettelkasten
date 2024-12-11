@@ -1,0 +1,2 @@
+- Las [[J2 Variables|variables]] no pueden iniciar con números o caracteres especiales (Guión bajo si esta permitido)
+- Las [[J2 Variables|variables]] no pueden tener espacios
