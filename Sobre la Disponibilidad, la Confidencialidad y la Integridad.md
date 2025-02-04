@@ -17,6 +17,20 @@ Otro término para la confidencialidad sería privacidad. Las políticas de la e
 
 Además, los ejemplos deben recibir capacitación para comprender las mejores prácticas para resguardar datos confidenciales, para protegerse y proteger a la empresa contra ataques. Entre los métodos para garantizar la confidencialidad se incluyen el cifrado de datos, nombre de usuario y contraseña, la autenticación de dos factores y la minimización de la exposición de la información confidencial.
 
+>[!Tip] Open Systems Interconection (OSI)
+
+### Integridad
+
+La integridad es precisión, consistencia y confiabilidad de los datos durante su ciclo de vida. Los datos deben permanecer inalterados durante la transferencia y no deben ser modificados por entidades no autorizadas. Los permisos de archivos y el control de acceso de usuarios pueden impedir el acceso no autorizado. El control de versión se puede utilizar para evitar cambios accidentales por parte de usuarios autorizados. Las copias de respaldo deben estar disponibles para restaurar los datos dañados y la suma de comprobación de HASH se puede utilizar para verificar la integridad de los datos durante la transferencia.
+
+>[!Tip] Cifrado AES/DES
+
+>[!Tip] CRC-32/64
+
+### Disponibilidad
+
+Mantener los equipos, realizar reparaciones de hardware, mantener los sistemas operativos y el software actualizados, así como crear respaldos, garantiza la disponibilidad de la red y los datos a los usuarios autorizados. Deben existir plane
+
 
 
 
