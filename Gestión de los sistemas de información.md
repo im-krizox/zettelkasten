@@ -11,3 +11,22 @@ Es un conjunto de elementos (componentes del sistema) que interaccionan entre s�
 - Procesamiento: Clasificar, ordenar o calcular
 - Salida: Resultado
 
+## Tipos de sistemas de información
+
+### Automatización / Procesos operativos
+
+- TPS
+	- Enfocados a Registrar y procesar datos resultantes de transacciones comerciales
+	- Automa
+
+### Apoyo / Toma decisiones
+
+- MIS
+- DSS
+- EIS
+- GDS
+- EDSS
+
+### Ventajas competitivas
+
+- Sistemas estratégicos
