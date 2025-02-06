@@ -17,13 +17,16 @@ Es un conjunto de elementos (componentes del sistema) que interaccionan entre s�
 
 - TPS
 	- Enfocados a Registrar y procesar datos resultantes de transacciones comerciales
-	- Automa
+	- Automatización de tareas
+	- Características: Ahorros, muchos datos, suelen ser los primeros
 
 ### Apoyo / Toma decisiones
 
-- MIS
-- DSS
-- EIS
+- MIS: Sistemas de información administrativa
+	- Proporcionan:
+		- Informes y presentaciones a la gerencia
+- DSS: Sistemas de soporte a la toma de decisiones
+- EIS: Sistema de información
 - GDS
 - EDSS
 
