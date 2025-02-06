@@ -26,7 +26,21 @@ Es un conjunto de elementos (componentes del sistema) que interaccionan entre s�
 	- Proporcionan:
 		- Informes y presentaciones a la gerencia
 - DSS: Sistemas de soporte a la toma de decisiones
+	- Proporcionan:
+		- Apoyan a la toma de decisiones
+		- Usan modelos y herramientas
+	- ¿Qué es?
+		- U
+	- DSS
+		- Toma de decisiones de diferentes tipos
+		- Integración entre sistemas
+		- Información adecuada para cada usuario
+		- Interactividad
+		- Facilidad de uso
 - EIS: Sistema de información
+	- Proporcionan:
+		- Muestra informes y listados de las diferentes áreas de negocio
+		- Ofrece un acceso rápido y efectivo a la información
 - GDS
 - EDSS
 
