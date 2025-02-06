@@ -67,6 +67,14 @@ Es un conjunto de elementos (componentes del sistema) que interaccionan entre s�
 >[!info] Sistema de información
 >Conjunto de elementos que interactúan entre sí con el fin de apoyar las actividades de una empresa o un negocio.
 
+## Tipos de sistemas de información
+
+Los sistemas de información cumplirán tres objetivos básicos dentro de las organizaciones
+
+1. Automatizar
+2. Información que sirva de apoyo
+3. Ventajas competitivas
+
 
 
 
