@@ -41,8 +41,19 @@ Es un conjunto de elementos (componentes del sistema) que interaccionan entre s�
 	- Proporcionan:
 		- Muestra informes y listados de las diferentes áreas de negocio
 		- Ofrece un acceso rápido y efectivo a la información
+	- Características:
+		- Utilizados principalmente por agencias de viajes, hoteles o aerolíneas
+		- Informan a clientes del estado de su "pedido" (mandar mensajes, avisos, imprevistos, etc)
+	- Herramientas:
+		- Hay varios grandes sistemas de distribución mundial que albergan y procesan la gran mayoría de los datos de hoteles, aerolíneas y otros distribuidores.
 - GDS
-- EDSS
+- EDSS:
+	- Sistemas expertos de soporte a la toma de decisiones
+	- Características:
+		- Son interactivas
+		- De uso muy frecuente
+		- Variedad de usuarios
+	- 
 
 ### Ventajas competitivas
 
