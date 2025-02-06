@@ -59,3 +59,6 @@ Es un conjunto de elementos (componentes del sistema) que interaccionan entre s�
 
 - Sistemas estratégicos:
 	- Sistemas expertos
+
+## Tipos de sistemas y la jerarquía organizacional
+
