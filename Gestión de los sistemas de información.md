@@ -7,3 +7,7 @@ Es un conjunto de elementos (componentes del sistema) que interaccionan entre s√
 
 ![[Imagen de WhatsApp 2025-02-06 a las 09.26.26_23a95f2f.jpg|450]]
 
+- Entrada: Datos e informaci√≥n
+- Procesamiento: Clasificar, ordenar o calcular
+- Salida: Resultado
+
