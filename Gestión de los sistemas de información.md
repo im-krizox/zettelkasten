@@ -64,6 +64,10 @@ Es un conjunto de elementos (componentes del sistema) que interaccionan entre s�
 
 ![[Imagen de WhatsApp 2025-02-06 a las 10.05.05_56abd356.jpg|450]]
 
-## Sistema de 
+>[!info] Sistema de información
+>Conjunto de elementos que interactúan entre sí con el fin de apoyar las actividades de una empresa o un negocio.
+
+
+
 
 
