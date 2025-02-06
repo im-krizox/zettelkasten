@@ -62,3 +62,8 @@ Es un conjunto de elementos (componentes del sistema) que interaccionan entre s√
 
 ## Tipos de sistemas y la jerarqu√≠a organizacional
 
+![[Imagen de WhatsApp 2025-02-06 a las 10.05.05_56abd356.jpg|450]]
+
+## Sistema de 
+
+
