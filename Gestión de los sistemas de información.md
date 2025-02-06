@@ -75,6 +75,12 @@ Los sistemas de información cumplirán tres objetivos básicos dentro de las or
 2. Información que sirva de apoyo
 3. Ventajas competitivas
 
+## Sistema de información gerencial (SIG)
+
+>[!info]
+>Un conjunto formal de procesos que, operando sobre una colección de datos estructurada según las necesidades de la empresa, recopilan, elaboran y distribuyen la información (o parte de ella) necesaria para las operaciones de dicha empresa y para las actividades de dirección y control correspondientes (decisiones) para desempeñar y eficientar su actividad de acuerdo a su estrategia de negocio
+
+
 
 
 
