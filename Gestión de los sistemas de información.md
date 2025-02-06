@@ -57,4 +57,5 @@ Es un conjunto de elementos (componentes del sistema) que interaccionan entre s�
 
 ### Ventajas competitivas
 
-- Sistemas estratégicos
+- Sistemas estratégicos:
+	- Sistemas expertos
