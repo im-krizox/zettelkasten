@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Consecuencia de una violación de seguridad.md",
+                "file": "Prueba desde Windows.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Consecuencia de una violación de seguridad"
+              "title": "Prueba desde Windows"
             }
           }
         ]
@@ -180,10 +180,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a286d84f07b403e0",
+  "active": "5d943c2f60f022d8",
   "lastOpenFiles": [
-    "Prueba de tema \"minimal\".md",
     "Consecuencia de una violación de seguridad.md",
+    "Prueba desde Windows.md",
+    "Prueba de tema \"minimal\".md",
     "Criptografía.md",
     "Gestión de los sistemas de información.md",
     "PPC - Introducción.md",
