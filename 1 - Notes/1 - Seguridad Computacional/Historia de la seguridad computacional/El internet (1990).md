@@ -1,0 +1,21 @@
+- Fax vs Email
+- Apertura de internet para uso comercial en 1992.
+- Protocolo *HTTP* y *HTML*.
+	- Abrieron una puerta a muchas posibilidades.
+- World Wide Web (1991) y navegadores gráficos.
+	- Nueva experiencia de usuario.
+	- Uso de criptografía para comunicación segura.
+		- Resolvió sólo la parte fácil.
+	- Modelo de seguridad en *Java*.
+	- Ataques basados en correos electrónicos.
+	- Trusted Computing Platform Alliance (1999).
+		- Compaq.
+		- HP.
+		- IBM.
+		- Intel.
+		- Microsoft.
+- Entretenimiento basado en internet.
+	- Consolas de videojuegos, música, vídeos, etc.
+	- Protección antipiratería.
+	- Digital Rights Management (DRM).
+- Disponibilidad y negociación de servicio.

@@ -1,0 +1,7 @@
+- Grandes corporaciones y gobiernos.
+	- Sistemas de defensa e información clasificada (Anderson report).
+	- Modelo *Bell-LaPadula*.
+	- Información no clasificada pero sensible.
+	- Encriptación.
+	- IBM-DES.
+	- Seguridad en bases de datos.

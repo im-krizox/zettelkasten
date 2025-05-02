@@ -1,0 +1,14 @@
+- Miniaturización e interfaces gráficas.
+	- Dejar de depender de TI.
+	- Uso de procesadores de palabra y hojas de cálculo con datos sensibles.
+	- Modelo *Clark-Wilson*.
+		- Transacciones completas.
+		- Separación de deberes y responsabilidades.
+	- Modelo de la *Muralla China*.
+		- Prevenir conflictos de intereses en consultoras financieras.
+	- Arquitectura de procesadores.
+		- *80286*: Soporte de segmentación usado en sistemas operativos multiusuario.
+		- *80386*: No soportaba segmentación. *MS-DOS* no lo usaba.
+	- Virus y gusanos.
+		- Gusano de internet de 1988, que atacaba vulnerabilidades como ataques de fuerza bruta para adivinar contraseñas, malas configuraciones, etc.
+		- El *Hacker* loco: Aprovechó una vulnerabilidad del sistema operativo *VME/B*.

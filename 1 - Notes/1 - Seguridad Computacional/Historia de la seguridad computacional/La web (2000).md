@@ -1,0 +1,10 @@
+- Crecimiento de la base de usuarios.
+- Acceso móvil.
+- Eliminación de terceros en la oferta de servicios.
+	- Agencias de viajes.
+- Aplicaciones comerciales.
+	- Amazon, bancos, eBay, etc.
+	- Ataques de inyección SQL, Cross Site Scripting.
+- Ataques de organizaciones criminales.
+- Gran ancho de banda, outsourcing, la nube, etc.
+	- Retos de seguridad.

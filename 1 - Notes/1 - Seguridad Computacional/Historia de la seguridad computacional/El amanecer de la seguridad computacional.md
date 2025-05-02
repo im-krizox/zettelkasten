@@ -1,0 +1,7 @@
+- Descifrando enigma (1930-1940).
+- Colossus, EDVAC, ENIAC: (1940).
+	- Academia, negocios y gobiernos.
+- RAND Report: (1960).
+	- Fundamentos técnicos de la seguridad computacional.
+	- Políticas y requerimientos de aplicaciones particulares.
+	- Diseño de sistemas de seguridad para proteger información militar clasificada.
